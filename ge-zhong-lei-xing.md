@@ -30,3 +30,11 @@
       > string s = to\_string(a);
       >
       > s\[0].compare("3") > 0;// 判断是否大于3
+
+
+* substr() :  从字符串起始处的指定位置复制最多某个数目的字符的子字符串。
+  * > string str1 ("Heterological paradoxes are persistent.");
+    >
+    > basic\_string str2 = str1.substr ( 6 , 7 );  // 起始位置为6（包括6），复制7个
+    >
+    > cout << "The substring str1 copied is: " << str2 << endl ; // 返回logical

@@ -45,7 +45,9 @@ swap(a[0], a[1]); // 交换前两个元素
 比如：
 
 ```cpp
-vector<int> nums(1,2,3,4,5,6);
+#include <numeric> // accumulate在这个包下面
+
+vector<int> nums{1,2,3,4,5,6};
 int result = accumulate(nums.begin(), nums.end(), 0);
 ```
 

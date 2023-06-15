@@ -45,5 +45,30 @@
 
 1. 构建一个哈希表
 
+<pre class="language-cpp"><code class="lang-cpp">// 构建一个哈希表
+unordered_map&#x3C;char,int> map;
+// 设置值!!!!会覆盖；
+map['c'] = 1; 
+// 插入值！！！！不会覆盖
+pair&#x3C;char, int> instance('c', 2);
+map.insert(instance);
+
+// 寻找某个值，返回一个迭代器！！！！first为健，这里为c；second为值，这里为1
+auto j = map.find('c');
+while(j != map.end()) {
+<strong>    cout &#x3C;&#x3C; j->first &#x3C;&#x3C; " : " &#x3C;&#x3C; j->second &#x3C;&#x3C; endl;
+</strong>    j++;
+}
+
+</code></pre>
+
+
+
+
+
+
+
+
+
 
 

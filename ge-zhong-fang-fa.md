@@ -36,7 +36,18 @@ swap(a[0], a[1]); // 交换前两个元素
 
 
 
+### accumulate方法
 
+累加
+
+前两个形参必须是迭代器，第三个形参为初始值；
+
+比如：
+
+```cpp
+vector<int> nums(1,2,3,4,5,6);
+int result = accumulate(nums.begin(), nums.end(), 0);
+```
 
 
 

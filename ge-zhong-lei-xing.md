@@ -38,3 +38,12 @@
     > basic\_string str2 = str1.substr ( 6 , 7 );  // 起始位置为6（包括6），复制7个
     >
     > cout << "The substring str1 copied is: " << str2 << endl ; // 返回logical
+
+#### unordered\_map哈希表
+
+> ！！注意：不是hash\_map，c++11新增了stl库中哈希表的名字为unordered\_map；！！
+
+1. 构建一个哈希表
+
+
+

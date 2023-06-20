@@ -53,9 +53,29 @@ int result = accumulate(nums.begin(), nums.end(), 0);
 
 
 
+### reverse方法
 
+反转常用于数组、字符串、容器等；
 
+需要包含头部
 
+```cpp
+#include <algorithm>
+```
+
+reverse函数用于反转在\[first, last)范围内的顺序（包括first指向的元素，不包括last指向的元素），reverse函数没有返回值；
+
+例如：
+
+```cpp
+vector<int> v = {5, 4, 3, 2, 1};
+reverse(v.begin(), v.end());
+```
+
+```cpp
+string str = "hello world";
+reverse(str.begin(), str.end());
+```
 
 
 

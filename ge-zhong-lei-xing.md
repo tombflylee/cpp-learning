@@ -15,9 +15,11 @@
 
 * `reference front()` : 返回对 `deque` 中第一个元素的引用。
 * `push()` : 放到deque队列**尾部**
-* `push_front()`: 放到deque队列的**头部**
-* `pop_back()` ：清除deque队列的**尾部**
-* `pop_front()` : 清除deque队列的**头部**
+* **`pop():` 清除头部元素**
+* **`front()`: 获取第一个元素的引用**
+* ~~`push_front()`: 放到deque队列的**头部**~~
+* ~~`pop_back()` ：清除deque队列的**尾部**~~
+* ~~`pop_front()` : 清除deque队列的**头部**~~
 * `clear()`: 清除deque
 
 ```cpp

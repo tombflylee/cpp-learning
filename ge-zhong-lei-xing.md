@@ -62,9 +62,13 @@ while(j != map.end()) {
 
 </code></pre>
 
+2. 寻找一个健值
 
+使用`find()`方法，返回一个迭代器，如果不存在这个健，则返回`unordered_map.end()`
 
-
+```cpp
+map.find('a') == map.end(); // 这样判断即可！！
+```
 
 
 

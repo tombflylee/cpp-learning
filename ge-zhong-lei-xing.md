@@ -11,21 +11,20 @@
 * `reference top();` 返回顶部元素；
 * `empty()` 方法判断是否为空
 
-#### deque队列
+#### queue队列
 
-* `reference front()` : 返回对 `deque` 中第一个元素的引用。
+* `reference front()` : 返回对 queue 中第一个元素的引用。
 * `push()` : 放到deque队列**尾部**
 * **`pop():` 清除头部元素**
 * **`front()`: 获取第一个元素的引用**
-* ~~`push_front()`: 放到deque队列的**头部**~~
-* ~~`pop_back()` ：清除deque队列的**尾部**~~
-* ~~`pop_front()` : 清除deque队列的**头部**~~
-* `clear()`: 清除deque
+* `clear()`: 清除queue
 
 ```cpp
 // 初始化
-deque<int> p;
+queue<int> p;
 ```
+
+#### deque双端队列
 
 #### string类型
 

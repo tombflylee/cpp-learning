@@ -6,6 +6,6 @@
 * [各种类型](ge-zhong-lei-xing.md)
 * [各种方法](ge-zhong-fang-fa.md)
 
-## Group 1
+## 慕课学习笔记
 
-* [笔记001](group-1/bi-ji-001.md)
+* [笔记01-基础中的基础-小笔记](mu-ke-xue-xi-bi-ji/bi-ji-01-ji-chu-zhong-de-ji-chu-xiao-bi-ji.md)

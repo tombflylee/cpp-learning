@@ -9,3 +9,4 @@
 ## 慕课学习笔记
 
 * [笔记01-基础中的基础-小笔记](mu-ke-xue-xi-bi-ji/bi-ji-01-ji-chu-zhong-de-ji-chu-xiao-bi-ji.md)
+* [笔记02-基础中的进阶](mu-ke-xue-xi-bi-ji/bi-ji-02-ji-chu-zhong-de-jin-jie.md)

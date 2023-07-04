@@ -10,6 +10,7 @@
 
 * [笔记01-基础中的基础-小笔记](cpp-de-bi-ji/bi-ji-01-ji-chu-zhong-de-ji-chu-xiao-bi-ji.md)
 * [笔记02-基础中的进阶](cpp-de-bi-ji/bi-ji-02-ji-chu-zhong-de-jin-jie.md)
+* [笔记03--基础语法](cpp-de-bi-ji/bi-ji-03-ji-chu-yu-fa.md)
 
 ## 计算机基础的笔记
 

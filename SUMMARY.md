@@ -4,6 +4,7 @@
 * [string相关的](string-xiang-guan-de.md)
 * [各种类型](ge-zhong-lei-xing.md)
 * [各种方法](ge-zhong-fang-fa.md)
+* [c库函数](c-ku-han-shu.md)
 
 ## cpp的笔记
 
